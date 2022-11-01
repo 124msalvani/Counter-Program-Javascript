@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#countLabel{
+  text-align: center;
+  font-size:60px;
+}
+
+#decreaseBtn, #resetBtn, #increaseBtn{
+  color: white;
+  background-color: #00b8a2;
+  border-color: grey;
+  border-radius: 10px;
+}
